@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-family: cursive;
+}
+.navbar-left h2{
+    margin-left: 20px;
+}
+.navbar-left span{
+    color: rgb(255, 1, 52);
+}
+.navbar-right{
+    display: flex;
+    margin-right: 20px;
+}
+.navbar-right a{
+    margin: 0px 35px;
+    text-decoration: none;
+    color: #fff;
+}
+.navbar-right a:hover{
+    color: rgb(255, 1, 52);
+    font-weight: 600;
+}
