@@ -19,7 +19,8 @@ video {
     align-items: flex-start;
     font-family: cursive;
     margin-left: 40px;
-    margin-top: 150px;
+    margin-top: 100px;
+    font-size: 21px;
 }
 .homepage-bottom span{
     color: rgb(255, 1, 52);
